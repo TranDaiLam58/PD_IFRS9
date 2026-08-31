@@ -1,5 +1,5 @@
 # PD_IFRS9
-A project describes a processing calculate PD follow IFRS9 standard
+Personal project demonstrating forward-looking PD modeling using macroeconomic variables for IFRS 9 applications
 - Link data Lending Club: This data used to calculate PD (https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1)
 - PD_LendingClub.ipynb: Main code
 - TDL_utilities : supporting code
